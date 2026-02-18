@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **app devlopment**
 
-- 👯 I’m looking to collaborate on **nobody**
+- 👯 I’m looking to collaborate on **good devlopers**
 
-- 🤝 I’m looking for help with **no onyone**
+- 🤝 I’m looking for help with **cool mindeset coders**
 
 - 📫 How to reach me **mp9546580@gmail.com**
 
