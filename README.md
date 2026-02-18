@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m-coder567" alt="m-coder567" /></a> </p>
 
-- 🔭 I’m currently working on **reducation envirmation project**
+- 🔭 I’m currently working on **hotel staff customre mangment software**
 
 - 🌱 I’m currently learning **app devlopment**
 
